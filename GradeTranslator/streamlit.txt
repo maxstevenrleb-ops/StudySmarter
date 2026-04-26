@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+google-generativeai
+fpdf2
+pycryptodome
+beautifulsoup4
+requests
